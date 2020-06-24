@@ -1,0 +1,182 @@
+Added Component: Designator=R317(SR2-1.00X0.50A)
+Add component (AddParameter): Name = "Commodity"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 1"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FirstPublished"; Value = "2012/10/14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint(imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint(metric)"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0402FR-07KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = "NM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replace"; Value = "OK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R318(SR2-1.00X0.50A)
+Add component (AddParameter): Name = "Commodity"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 1"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FirstPublished"; Value = "2012/10/14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint(imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint(metric)"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0402FR-07KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = "NM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replace"; Value = "OK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R319(SR2-1.00X0.50A)
+Add component (AddParameter): Name = "Commodity"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 1"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FirstPublished"; Value = "2012/10/14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint(imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint(metric)"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0402FR-07KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = "NM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replace"; Value = "OK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R320(SR2-1.00X0.50A)
+Add component (AddParameter): Name = "Commodity"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 1"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FirstPublished"; Value = "2012/10/14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint(imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint(metric)"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0402FR-07KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = "NM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replace"; Value = "OK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R321(SR2-1.00X0.50A)
+Add component (AddParameter): Name = "Commodity"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 1"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FirstPublished"; Value = "2012/10/14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint(imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint(metric)"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0402FR-07KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replace"; Value = "OK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R322(SR2-1.00X0.50A)
+Add component (AddParameter): Name = "Commodity"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 1"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FirstPublished"; Value = "2012/10/14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint(imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint(metric)"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0402FR-07KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replace"; Value = "OK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R323(SR2-1.00X0.50A)
+Add component (AddParameter): Name = "Commodity"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 1"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FirstPublished"; Value = "2012/10/14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint(imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint(metric)"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0402FR-07KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replace"; Value = "OK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R324(SR2-1.00X0.50A)
+Add component (AddParameter): Name = "Commodity"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 1"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FirstPublished"; Value = "2012/10/14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint(imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint(metric)"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0402FR-07KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replace"; Value = "OK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Component: Designator=R325(SR2-1.00X0.50A)
+Add component (AddParameter): Name = "Commodity"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 1"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FirstPublished"; Value = "2012/10/14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint(imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint(metric)"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replace"; Value = "OK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=P3R3VD Pin=R317-2
+Added Pin To Net: NetName=P3R3VD Pin=R318-2
+Added Pin To Net: NetName=P3R3VD Pin=R319-2
+Added Pin To Net: NetName=P3R3VD Pin=R320-2
+Added Pin To Net: NetName=GND Pin=R321-2
+Added Pin To Net: NetName=GND Pin=R322-2
+Added Pin To Net: NetName=GND Pin=R323-2
+Added Pin To Net: NetName=GND Pin=R324-2
+Added Pin To Net: NetName=GND Pin=R325-2
+Added Pin To Net: NetName=HW_Ver0 Pin=R317-1
+Added Pin To Net: NetName=HW_Ver0 Pin=R321-1
+Added Pin To Net: NetName=HW_Ver0 Pin=U300-39
+Added Net: Name=HW_Ver0
+Added Pin To Net: NetName=HW_Ver1 Pin=R318-1
+Added Pin To Net: NetName=HW_Ver1 Pin=R322-1
+Added Pin To Net: NetName=HW_Ver1 Pin=U300-38
+Added Net: Name=HW_Ver1
+Added Pin To Net: NetName=HW_Ver2 Pin=R319-1
+Added Pin To Net: NetName=HW_Ver2 Pin=R323-1
+Added Pin To Net: NetName=HW_Ver2 Pin=U300-37
+Added Net: Name=HW_Ver2
+Added Pin To Net: NetName=HW_Ver3 Pin=R320-1
+Added Pin To Net: NetName=HW_Ver3 Pin=R324-1
+Added Pin To Net: NetName=HW_Ver3 Pin=U300-36
+Added Net: Name=HW_Ver3
+Added Pin To Net: NetName=NetR325_1 Pin=R325-1
+Added Pin To Net: NetName=NetR325_1 Pin=U300-30
+Added Pin To Net: NetName=NetR325_1 Pin=U301-1
+Added Net: Name=NetR325_1
+Added Member To Class: ClassName=MCU Member=Component R317 0
+Added Member To Class: ClassName=MCU Member=Component R318 0
+Added Member To Class: ClassName=MCU Member=Component R319 0
+Added Member To Class: ClassName=MCU Member=Component R320 0
+Added Member To Class: ClassName=MCU Member=Component R321 0
+Added Member To Class: ClassName=MCU Member=Component R322 0
+Added Member To Class: ClassName=MCU Member=Component R323 0
+Added Member To Class: ClassName=MCU Member=Component R324 0
+Added Member To Class: ClassName=MCU Member=Component R325 10k

@@ -1,0 +1,383 @@
+Removed Pin From Net: NetName=P5R1V Pin=J300-6
+Removed Pin From Net: NetName=GND Pin=Q300-5
+Removed Pin From Net: NetName=NetQ300_3 Pin=Q300-6
+Removed Pin From Net: NetName=USB_Output_EN Pin=R301-1
+Removed Pin From Net: NetName=GND Pin=R301-2
+Removed Pin From Net: NetName=NetQ300_3 Pin=R309-2
+Removed Pin From Net: NetName=GND Pin=R311-2
+Removed Pin From Net: NetName=HW_Ver0 Pin=R317-1
+Removed Pin From Net: NetName=P3R3VD Pin=R317-2
+Removed Pin From Net: NetName=HW_Ver1 Pin=R318-1
+Removed Pin From Net: NetName=P3R3VD Pin=R318-2
+Removed Pin From Net: NetName=HW_Ver2 Pin=R319-1
+Removed Pin From Net: NetName=P3R3VD Pin=R319-2
+Removed Pin From Net: NetName=HW_Ver3 Pin=R320-1
+Removed Pin From Net: NetName=P3R3VD Pin=R320-2
+Removed Pin From Net: NetName=NetQ301_6 Pin=R326-1
+Removed Pin From Net: NetName=NetQ301_3 Pin=R326-2
+Removed Pin From Net: NetName=GND Pin=Z100-1
+Removed Pin From Net: NetName=VMON_VIN Pin=Z100-2
+Removed Member From Class: ClassName=Battery_Charger Member=Z100
+Change Component Footprint: Designator=Q300 Old Footprint=SOT23-6 New Footprint=SOT23P245X120-3N
+Change Component Comment : Designator=R318 Old Comment=0 New Comment=1k
+Change Component Comment : Designator=R320 Old Comment=0 New Comment=3k
+Change Component Comment : Designator=R319 Old Comment=0 New Comment=10k
+Change Component Comment : Designator=R317 Old Comment=0 New Comment=220
+Change Component Comment : Designator=R301 Old Comment=10k New Comment=1k
+Change Component Comment : Designator=R313 Old Comment=10k New Comment=16.9k
+Change Component Comment : Designator=R326 Old Comment=200 New Comment=10k
+Change Component Comment : Designator=Q300 Old Comment=NCE2003 New Comment=HX2301A
+Change component parameters: Designator = "R300" ("R300"); Footprint = "SR2-1.00X0.50A"; UniqueID = "\KQNUHOPI\TCSZQMLE" ("\KQNUHOPI\TCSZQMLE")
+Change component parameters (AddParameter): Name = "Commodity"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 1"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FirstPublished"; Value = "2012/10/14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Footprint(imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Footprint(metric)"; Value = "1005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting"; Value = "NM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Replace"; Value = "OK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R321" ("R321"); Footprint = "SR2-1.00X0.50A"; UniqueID = "\KQNUHOPI\MWNSBYCI" ("\KQNUHOPI\MWNSBYCI")
+Change component parameters (AddParameter): Name = "Commodity"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 1"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FirstPublished"; Value = "2012/10/14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Footprint(imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Footprint(metric)"; Value = "1005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0402FR-07KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting"; Value = "NM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Replace"; Value = "OK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R322" ("R322"); Footprint = "SR2-1.00X0.50A"; UniqueID = "\KQNUHOPI\CJHNKYUQ" ("\KQNUHOPI\CJHNKYUQ")
+Change component parameters (AddParameter): Name = "Commodity"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 1"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FirstPublished"; Value = "2012/10/14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Footprint(imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Footprint(metric)"; Value = "1005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0402FR-07KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting"; Value = "NM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Replace"; Value = "OK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R323" ("R323"); Footprint = "SR2-1.00X0.50A"; UniqueID = "\KQNUHOPI\QSVVBWNX" ("\KQNUHOPI\QSVVBWNX")
+Change component parameters (AddParameter): Name = "Commodity"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 1"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FirstPublished"; Value = "2012/10/14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Footprint(imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Footprint(metric)"; Value = "1005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0402FR-07KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting"; Value = "NM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Replace"; Value = "OK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R324" ("R324"); Footprint = "SR2-1.00X0.50A"; UniqueID = "\KQNUHOPI\WUKKABIB" ("\KQNUHOPI\WUKKABIB")
+Change component parameters (AddParameter): Name = "Commodity"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 1"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FirstPublished"; Value = "2012/10/14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Footprint(imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Footprint(metric)"; Value = "1005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0402FR-07KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting"; Value = "NM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Replace"; Value = "OK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R313" ("R313"); Footprint = "SR2-1.00X0.50A"; UniqueID = "\KQNUHOPI\PCSVXIIX" ("\KQNUHOPI\PCSVXIIX")
+Change component parameters (AddParameter): Name = "Commodity"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 1"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FirstPublished"; Value = "2012/10/14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Footprint(imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Footprint(metric)"; Value = "1005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0402FR-0716K9L"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Replace"; Value = "OK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "16.9k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R326" ("R326"); Footprint = "SR2-1.00X0.50A"; UniqueID = "\KQNUHOPI\LPBJAUER" ("\KQNUHOPI\LPBJAUER")
+Change component parameters (AddParameter): Name = "Commodity"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 1"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FirstPublished"; Value = "2012/10/14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Footprint(imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Footprint(metric)"; Value = "1005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Replace"; Value = "OK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R317" ("R317"); Footprint = "SR2-1.00X0.50A"; UniqueID = "\KQNUHOPI\KVYFMFEB" ("\KQNUHOPI\KVYFMFEB")
+Change component parameters (AddParameter): Name = "Commodity"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 1"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FirstPublished"; Value = "2012/10/14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Footprint(imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Footprint(metric)"; Value = "1005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0402FR-07220RL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Replace"; Value = "OK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "220"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R319" ("R319"); Footprint = "SR2-1.00X0.50A"; UniqueID = "\KQNUHOPI\WILGHRFU" ("\KQNUHOPI\WILGHRFU")
+Change component parameters (AddParameter): Name = "Commodity"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 1"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FirstPublished"; Value = "2012/10/14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Footprint(imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Footprint(metric)"; Value = "1005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Replace"; Value = "OK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R320" ("R320"); Footprint = "SR2-1.00X0.50A"; UniqueID = "\KQNUHOPI\PSNNQSXA" ("\KQNUHOPI\PSNNQSXA")
+Change component parameters (AddParameter): Name = "Commodity"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 1"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FirstPublished"; Value = "2012/10/14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Footprint(imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Footprint(metric)"; Value = "1005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0402FR-073KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Replace"; Value = "OK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "3k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q300" ("Q300"); Footprint = "SOT23-6"; UniqueID = "\KQNUHOPI\XGCNPIFX" ("\KQNUHOPI\XGCNPIFX")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "HX2301A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "hengjiaxing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "HX2301A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R301" ("R301"); Footprint = "SR2-1.00X0.50A"; UniqueID = "\KQNUHOPI\GCOVBTNS" ("\KQNUHOPI\GCOVBTNS")
+Change component parameters (AddParameter): Name = "Commodity"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 1"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FirstPublished"; Value = "2012/10/14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Footprint(imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Footprint(metric)"; Value = "1005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0402FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Replace"; Value = "OK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R318" ("R318"); Footprint = "SR2-1.00X0.50A"; UniqueID = "\KQNUHOPI\BPDPUZBH" ("\KQNUHOPI\BPDPUZBH")
+Change component parameters (AddParameter): Name = "Commodity"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 1"; Value = "Resistor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Description 2"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FirstPublished"; Value = "2012/10/14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Footprint(imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Footprint(metric)"; Value = "1005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Yageo"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0402FR-071KL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Replace"; Value = "OK"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=C305(SC2-1.00X0.50A)
+Add component (AddParameter): Name = "Commodity"; Value = "MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 1"; Value = "Capacitor (non-polar)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FirstPublished"; Value = "2012/10/14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint(imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint(metric)"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0201JRNPO9BN150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replace"; Value = "OK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15p/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C306(SC2-1.00X0.50A)
+Add component (AddParameter): Name = "Commodity"; Value = "MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 1"; Value = "Capacitor (non-polar)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FirstPublished"; Value = "2012/10/14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint(imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint(metric)"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CC0201JRNPO9BN150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replace"; Value = "OK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "15p/50V"; VariantName = "[No Variations]"
+Added Component: Designator=C307(SC2-1.00X0.50A)
+Add component (AddParameter): Name = "Commodity"; Value = "MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 1"; Value = "Capacitor (non-polar)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FirstPublished"; Value = "2012/10/14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint(imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint(metric)"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "GRM1555C1H102JA01D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replace"; Value = "OK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1n/50V"; VariantName = "[No Variations]"
+Added Component: Designator=D107(SOD-123)
+Add component (AddParameter): Name = "Commodity"; Value = "TVS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "DOWO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SMF24A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replace"; Value = "OK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "SMF24A"; VariantName = "[No Variations]"
+Added Component: Designator=D304(SD2-1.7X1.25A)
+Add component (AddParameter): Name = "Commodity"; Value = "Diode Small Dignal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 2"; Value = "75V 150MA SOD323F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint(imperial)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint(metric)"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1N4148WS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replace"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q302(SOT23-6)
+Add component (AddParameter): Name = "Commodity"; Value = "MOSFET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ncepower"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "NCE2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replace"; Value = "OK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "NCE2003"; VariantName = "[No Variations]"
+Added Component: Designator=R207(SR2-1.00X0.50A)
+Add component (AddParameter): Name = "Commodity"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 1"; Value = "Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Description 2"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FirstPublished"; Value = "2012/10/14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint(imperial)"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Footprint(metric)"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RC0402FR-0710KL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replace"; Value = "OK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Added Component: Designator=X300(MC146327681252090)
+Add component (AddParameter): Name = "Commodity"; Value = "X'tal"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JGHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MC146327681252090"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Replace"; Value = "OK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "MC146327681252090"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C305-2
+Added Pin To Net: NetName=GND Pin=C306-2
+Added Pin To Net: NetName=VBAT_MON Pin=C307-1
+Added Pin To Net: NetName=GND Pin=C307-2
+Added Pin To Net: NetName=GND Pin=D107-A
+Added Pin To Net: NetName=VMON_VIN Pin=D107-C
+Added Pin To Net: NetName=P5R1V Pin=J300-5
+Added Pin To Net: NetName=VBAT Pin=Q302-2
+Added Pin To Net: NetName=GND Pin=Q302-5
+Added Pin To Net: NetName=USB_Output_EN Pin=R207-1
+Added Pin To Net: NetName=GND Pin=R207-2
+Added Pin To Net: NetName=NetQ300_3 Pin=R305-1
+Added Pin To Net: NetName=NetQ300_3 Pin=R310-1
+Added Pin To Net: NetName=VBAT Pin=R311-1
+Added Pin To Net: NetName=VBAT_MON Pin=R318-1
+Added Pin To Net: NetName=GND Pin=R319-2
+Added Pin To Net: NetName=VBAT_MON Pin=R320-1
+Added Pin To Net: NetName=GND Pin=R320-2
+Added Pin To Net: NetName=NetQ301_3 Pin=R326-1
+Added Pin To Net: NetName=NetQ301_6 Pin=R326-2
+Change Net Name : Old Net Name=NetJ300_2 New Net Name=OCDDA
+Change Net Name : Old Net Name=NetJ300_3 New Net Name=OCDCK
+Change Net Name : Old Net Name=NetJ300_4 New Net Name=RSTn
+Change Net Name : Old Net Name=VBAT_MON New Net Name=VIN_MON
+Added Pin To Net: NetName=NetC305_1 Pin=C305-1
+Added Pin To Net: NetName=NetC305_1 Pin=U300-34
+Added Pin To Net: NetName=NetC305_1 Pin=X300-2
+Added Net: Name=NetC305_1
+Added Pin To Net: NetName=NetC306_1 Pin=C306-1
+Added Pin To Net: NetName=NetC306_1 Pin=U300-35
+Added Pin To Net: NetName=NetC306_1 Pin=X300-1
+Added Net: Name=NetC306_1
+Added Pin To Net: NetName=NetD304_A Pin=D304-A
+Added Pin To Net: NetName=NetD304_A Pin=R301-2
+Added Pin To Net: NetName=NetD304_A Pin=U300-30
+Added Net: Name=NetD304_A
+Added Pin To Net: NetName=NetQ302_3 Pin=Q302-3
+Added Pin To Net: NetName=NetQ302_3 Pin=R311-2
+Added Pin To Net: NetName=NetQ302_3 Pin=R317-1
+Added Net: Name=NetQ302_3
+Added Pin To Net: NetName=NetQ302_4 Pin=Q302-4
+Added Pin To Net: NetName=NetQ302_4 Pin=R318-2
+Added Net: Name=NetQ302_4
+Added Pin To Net: NetName=NetQ302_6 Pin=Q302-6
+Added Pin To Net: NetName=NetQ302_6 Pin=R317-2
+Added Net: Name=NetQ302_6
+Added Pin To Net: NetName=NetR301_1 Pin=R301-1
+Added Pin To Net: NetName=NetR301_1 Pin=R325-1
+Added Pin To Net: NetName=NetR301_1 Pin=U301-1
+Added Net: Name=NetR301_1
+Added Pin To Net: NetName=TEMP_ENn Pin=Q300-1
+Added Pin To Net: NetName=TEMP_ENn Pin=R309-2
+Added Pin To Net: NetName=TEMP_ENn Pin=U300-6
+Added Net: Name=TEMP_ENn
+Added Pin To Net: NetName=UART_MCU2PC Pin=J300-7
+Added Pin To Net: NetName=UART_MCU2PC Pin=U300-31
+Added Net: Name=UART_MCU2PC
+Added Pin To Net: NetName=UART_PC2MCU Pin=D304-K
+Added Pin To Net: NetName=UART_PC2MCU Pin=J300-6
+Added Net: Name=UART_PC2MCU
+Added Pin To Net: NetName=VBAT_MON_EN Pin=Q302-1
+Added Pin To Net: NetName=VBAT_MON_EN Pin=R319-1
+Added Pin To Net: NetName=VBAT_MON_EN Pin=U300-10
+Added Net: Name=VBAT_MON_EN
+Added Member To Class: ClassName=MCU Member=Component C305 15p/50V
+Added Member To Class: ClassName=MCU Member=Component C306 15p/50V
+Added Member To Class: ClassName=MCU Member=Component C307 1n/50V
+Added Member To Class: ClassName=Battery_Charger Member=Component D107 SMF24A
+Added Member To Class: ClassName=MCU Member=Component D304 1N4148WS
+Added Member To Class: ClassName=MCU Member=Component Q302 NCE2003
+Added Member To Class: ClassName=Step-Up_USB-Out Member=Component R207 10k
+Added Member To Class: ClassName=MCU Member=Component X300 MC146327681252090

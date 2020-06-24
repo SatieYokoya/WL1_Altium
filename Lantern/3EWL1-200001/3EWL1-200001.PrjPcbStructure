@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=3EWL1-200001_01.SchDoc
+Record=SheetSymbol|SourceDocument=3EWL1-200001_01.SchDoc|Designator=Battery_Charger|SchDesignator=Battery_Charger|FileName=3EWL1-200001_02|SymbolType=Normal|RawFileName=3EWL1-200001_02|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=3EWL1-200001_01.SchDoc|Designator=LED_Driver|SchDesignator=LED_Driver|FileName=3EWL1-200001_05|SymbolType=Normal|RawFileName=3EWL1-200001_05|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=3EWL1-200001_01.SchDoc|Designator=MCU|SchDesignator=MCU|FileName=3EWL1-200001_04|SymbolType=Normal|RawFileName=3EWL1-200001_04|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=3EWL1-200001_01.SchDoc|Designator=Step-Up_USB-Out|SchDesignator=Step-Up_USB-Out|FileName=3EWL1-200001_03|SymbolType=Normal|RawFileName=3EWL1-200001_03|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

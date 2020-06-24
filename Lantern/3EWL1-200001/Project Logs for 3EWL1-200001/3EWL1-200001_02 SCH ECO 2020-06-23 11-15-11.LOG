@@ -1,0 +1,19 @@
+Change Component Parameter Description in C100 Old=Capacitor (non-polar) 2pin New=100n, 16V, X7R, 1005Size
+Change Component Parameter Description in C101 Old=Capacitor (non-polar) 2pin New=100n, 16V, X7R, 1005Size
+Change Component Parameter Description in C109 Old=4.7u/50V, X7R, 3216Size New=47u/10V, X7R, 3225Size
+Change Component Parameter Description in C110 Old=Capacitor (non-polar) 2pin New=100n, 16V, X7R, 1005Size
+Change Component Parameter Description in C111 Old=Capacitor (non-polar) 2pin New=100n, 16V, X7R, 1005Size
+Change Component Parameter Description in C112 Old=4.7u/50V, X7R, 3216Size New=47u/10V, X7R, 3225Size
+Change Component Parameter Description in C113 Old=4.7u/50V, X7R, 3216Size New=47u/10V, X7R, 3225Size
+Change Value of Parameter Replace in Part D100 Old= New=OK
+Change Value of Parameter Value in Part D100 Old= New=1N4148WS
+Change Value of Parameter Replace in Part D106 Old= New=OK
+Change Value of Parameter Value in Part D106 Old= New=1N4148WS
+Change Value of Parameter Footprint(imperial) in Part R107 Old= New=1206
+Change Value of Parameter Footprint(metric) in Part R107 Old= New=3216
+Added Parameter Commodity=MOSFET to Part Q101
+Added Parameter Commodity=MOSFET to Part Q102
+Added Parameter Footprint(imperial)=0603 to Part F100
+Added Parameter Footprint(metric)=1608 to Part F100
+Added Parameter Replace=OK to Part Q101
+Added Parameter Replace=OK to Part Q102

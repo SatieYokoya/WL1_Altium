@@ -1,0 +1,9 @@
+Change Component Parameter Description in C300 Old=Capacitor (non-polar) 2pin New=100n, 16V, X7R, 1005Size
+Change Component Parameter Description in C301 Old=Capacitor (non-polar) 2pin New=100n, 16V, X7R, 1005Size
+Change Component Parameter Description in C302 Old=4.7u/50V, X7R, 3216Size New=47u/10V, X7R, 3225Size
+Change Value of Parameter Replace in Part D300 Old= New=OK
+Change Value of Parameter Value in Part D300 Old= New=1N4148WS
+Change Value of Parameter Replace in Part D304 Old= New=OK
+Change Value of Parameter Value in Part D304 Old= New=1N4148WS
+Change Value of Parameter Replace in Part SW300 Old= New=OK
+Added Parameter Replace=OK to Part Q300

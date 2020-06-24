@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetQ101_1 Pin=Q101-1
+Removed Pin From Net: NetName=VMON_VIN Pin=Q101-2
+Removed Pin From Net: NetName=NetQ102_1 Pin=Q102-1
+Removed Pin From Net: NetName=NetC102_1 Pin=Q102-2
+Added Pin To Net: NetName=VMON_VIN Pin=Q101-1
+Added Pin To Net: NetName=NetQ101_1 Pin=Q101-2
+Added Pin To Net: NetName=NetC102_1 Pin=Q102-1
+Added Pin To Net: NetName=NetQ102_1 Pin=Q102-2
